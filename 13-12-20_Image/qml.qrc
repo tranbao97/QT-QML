@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/files">
+        <file>../../Image/Button2.png</file>
+        <file>../../Image/Button1.jfif</file>
+        <file>../../Image/circle.png</file>
+        <file>../../Image/Mess1.svg</file>
+        <file>../../Image/empty-circle.svg</file>
+        <file>../../Image/circle - Copy.jpg</file>
+        <file>../../Image/Arrow.png</file>
+    </qresource>
+</RCC>
