@@ -1,0 +1,26 @@
+A. TOPIC: CREATE FOLDER TO CONTAIN IMAGE
+1. QML Qt 144 - Images Rows and Columns
+https://www.youtube.com/watch?v=MZ7-7ggkWNM&t=173s
+
+2. Missing prefix in QML
+https://forum.qt.io/topic/92371/missing-prefix-in-qml
+
+B. TOPIC: CHANGE COLOR IMAGE
+1.  Changing background of every instance of a QML component (button)
+https://www.qtcentre.org/threads/61202-Changing-background-of-every-instance-of-a-QML-component-(button)
+
+2. Changing button image loses pressed signal
+https://forum.qt.io/topic/49579/changing-button-image-loses-pressed-signal
+
+3. ColorOverlay QML Type
+https://doc.qt.io/qt-5/qml-qtgraphicaleffects-coloroverlay.html#cached-prop
+
+4. How to use ColorOverlay on item in layout?
+https://stackoverflow.com/questions/52803447/how-to-use-coloroverlay-on-item-in-layout
+
+5. QML change image color
+https://stackoverflow.com/questions/16839198/qml-change-image-color
+
+6. How to make image to fill qml controls button
+https://stackoverflow.com/questions/27324318/how-to-make-image-to-fill-qml-controls-button
+
