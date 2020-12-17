@@ -2,7 +2,7 @@
 #include <QQmlApplicationEngine>
 #include <QQmlContext>
 #include <QQuickStyle>
-#include "changecolor.h"
+#include "myperson.h"
 
 int main(int argc, char *argv[])
 {
@@ -12,10 +12,10 @@ int main(int argc, char *argv[])
     QQmlApplicationEngine engine;
 
     QObjectList people;
-    people.append(new ChangeColor("black"));
-    people.append(new ChangeColor("brown"));
-    people.append(new ChangeColor("red"));
-    people.append(new ChangeColor("orange"));
+    people.append(new MyPerson("Juan", 20, "black"));
+    people.append(new MyPerson("Maria", 20, "brown"));
+    people.append(new MyPerson("Anna", 20, "red"));
+    people.append(new MyPerson("Peter", 20, "orange"));
 
     engine.rootContext()->setContextProperty("people", QVariant::fromValue(people));
 
