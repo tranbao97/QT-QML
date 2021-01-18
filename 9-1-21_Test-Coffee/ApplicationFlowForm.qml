@@ -8,9 +8,21 @@ Item {
         height: 768
         color: "#443224"
 
+
         SideBar{
 
         }
+
+        CupForm{
+
+        }
+
+//        ChoosingCoffee{
+
+//        }
+
+
+
 
     }
 

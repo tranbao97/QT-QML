@@ -27,5 +27,7 @@
         <file>Brewing.qml</file>
         <file>SideBar.qml</file>
         <file>CoffeeButton.qml</file>
+        <file>ChoosingCoffee.qml</file>
+        <file>CupForm.qml</file>
     </qresource>
 </RCC>
